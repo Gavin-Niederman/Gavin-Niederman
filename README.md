@@ -1,4 +1,4 @@
-# Hi (:
+# Hi
 
 I am a middle school student and I like to code things.
 
