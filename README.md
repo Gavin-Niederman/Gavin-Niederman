@@ -7,5 +7,6 @@ Some notable projects of mine are:
 
 Check them out if you want!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gavin-niederman&theme=catppuccin-mocha&show_icons=true&hide_border=true&layout=compact)
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=gavin-niederman&theme=catppuccin-mocha)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gavin-niederman&theme=catppuccin_mocha&show_icons=true&hide_border=true&layout=compact)
+
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=gavin-niederman&theme=catppuccin-mocha&hide_border=true)
