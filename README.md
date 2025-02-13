@@ -2,7 +2,7 @@
 
 I am a high school student, and I like to code things.
 Some notable projects of mine are:
-- [vexide](https://pros.rs)
+- [vexide](https://vexide.dev)
 - [saunter](https://github.com/gavin-niederman/saunter)
 
 Check them out if you want!
