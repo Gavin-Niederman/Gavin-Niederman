@@ -3,6 +3,7 @@
 I am a high school student, and I like to code things.
 Some notable projects of mine are:
 - [vexide](https://vexide.dev)
+- [shrewnit](https://github.com/gavin-niederman/shrewnit)
 - [saunter](https://github.com/gavin-niederman/saunter)
 
 Check them out if you want!
