@@ -2,10 +2,10 @@
 
 I am a high school student, and I like to code things.
 Some notable projects of mine are:
-- [vexide](https://vexide.dev)
-- [shrewnit](https://github.com/gavin-niederman/shrewnit)
-- [mecha](https://github.com/gavin-niederman/mecha)
-- [saunter](https://github.com/gavin-niederman/saunter)
+- [vexide](https://vexide.dev): A Rust runtime for VEX V5 robots used by several teams across the world.
+- [shrewnit](https://github.com/gavin-niederman/shrewnit): A runtime and compile time units library for Rust.
+- [mecha](https://github.com/gavin-niederman/mecha): A proof of concept interpreted programming language.
+- [saunter](https://github.com/gavin-niederman/saunter): A timing and interpolation library for tick based game engines.
 
 Check them out if you want!
 
