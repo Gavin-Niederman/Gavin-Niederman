@@ -7,7 +7,7 @@ Some notable projects of mine are:
 - [mecha](https://github.com/gavin-niederman/mecha): A proof of concept interpreted programming language.
 - [saunter](https://github.com/gavin-niederman/saunter): A timing and interpolation library for tick based game engines.
 
-Check them out if you want!
+Look at my website, https://gav.zip, for a full list! 
 
 [I daily drive NixOS!](https://github.com/gavin-niederman/nixfiles)
 
