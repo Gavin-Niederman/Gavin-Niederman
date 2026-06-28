@@ -1,13 +1,12 @@
 # Hi, I'm Gavin
 
-I am a high school student, and I like to code things.
+I'm a freshman at Oregon State studying computer engineering.
 Some notable projects of mine are:
 - [vexide](https://vexide.dev): A Rust runtime for VEX V5 robots used by several teams across the world.
 - [shrewnit](https://github.com/gavin-niederman/shrewnit): A runtime and compile time units library for Rust.
 - [mecha](https://github.com/gavin-niederman/mecha): A proof of concept interpreted programming language.
-- [saunter](https://github.com/gavin-niederman/saunter): A timing and interpolation library for tick based game engines.
 
-Look at my website, https://gav.zip, for a full list! 
+Look at my website, [https://gav.zip], for a full list! 
 
 [I daily drive NixOS!](https://github.com/gavin-niederman/nixfiles)
 
