@@ -10,6 +10,4 @@ Look at my website, https://gav.zip, for a full list!
 
 [I daily drive NixOS!](https://github.com/gavin-niederman/nixfiles)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gavin-niederman&theme=catppuccin_mocha&show_icons=true&hide_border=true&layout=compact)
-
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=gavin-niederman&theme=catppuccin-mocha&hide_border=true)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gavin-niederman&theme=catppuccin_mocha&show_icons=true&hide_border=true&layout=compact)](https://github.com/stats-organization/github-stats-extended)
