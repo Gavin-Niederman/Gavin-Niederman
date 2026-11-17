@@ -6,7 +6,7 @@ Some notable projects of mine are:
 - [shrewnit](https://github.com/gavin-niederman/shrewnit): A runtime and compile time units library for Rust.
 - [mecha](https://github.com/gavin-niederman/mecha): A proof of concept interpreted programming language.
 
-Look at my website, https://gav.zip, for a full list! 
+Look at my website, https://gavinniederman.com, for a full list! 
 
 [I daily drive NixOS!](https://github.com/gavin-niederman/nixfiles)
 
